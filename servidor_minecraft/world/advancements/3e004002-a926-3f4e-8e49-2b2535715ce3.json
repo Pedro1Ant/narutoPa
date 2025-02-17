@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_green_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-02-17 19:02:28 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-17 18:55:15 +0000"
@@ -254,6 +266,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-17 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
     },
     "done": true
   },
@@ -308,6 +326,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-17 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
     },
     "done": true
   },
@@ -449,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 19:02:28 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -545,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -560,6 +596,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
     },
     "done": true
   },
@@ -629,6 +671,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_brown2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -686,6 +746,12 @@
   "connectedglass:recipes/decorations/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
     },
     "done": true
   },
@@ -761,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_brown2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -803,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 19:02:14 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
@@ -824,6 +902,12 @@
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 19:00:01 +0000"
     },
     "done": true
   },
