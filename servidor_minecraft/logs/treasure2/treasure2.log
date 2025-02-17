@@ -624,3 +624,15 @@
 2025-02-17 18:04:56,797 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 216 64 -232
 2025-02-17 18:05:05,226 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! LEGENDARY chest at coords: 296 63 -248
 2025-02-17 18:05:19,687 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: 312 72 -56
+2025-02-17 18:06:53,383 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! RARE chest at coords: 344 64 -120
+2025-02-17 18:07:03,815 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 376 63 -8
+2025-02-17 18:07:18,322 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 408 70 -216
+2025-02-17 18:07:37,629 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 424 64 120
+2025-02-17 18:08:01,116 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: 456 69 -56
+2025-02-17 18:08:25,731 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 488 70 -152
+2025-02-17 18:08:42,882 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! MYTHICAL chest at coords: 520 63 72
+2025-02-17 18:08:58,070 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! EPIC chest at coords: 568 72 -72
+2025-02-17 18:09:13,787 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: 550 64 134
+2025-02-17 18:09:16,750 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 600 64 8
+2025-02-17 18:14:27,346 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 408 63 248
+2025-02-17 18:15:21,837 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 296 67 328

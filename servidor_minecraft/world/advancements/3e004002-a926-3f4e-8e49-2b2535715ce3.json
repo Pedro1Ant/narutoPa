@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/borderless_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -32,6 +38,12 @@
   "connectedglass:recipes/decorations/scratched_glass_green_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -50,6 +62,12 @@
   "connectedglass:recipes/decorations/borderless_glass_silver_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
     },
     "done": true
   },
@@ -83,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -92,6 +116,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
     },
     "done": true
   },
@@ -107,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/borderless_glass_lime_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-17 18:12:48 +0000"
     },
     "done": true
   },
@@ -137,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-17 18:12:48 +0000"
     },
     "done": true
   },
@@ -155,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -164,6 +224,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
     },
     "done": true
   },
@@ -179,15 +245,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/tinted_glass": {
     "criteria": {
       "recipe_condition": "2025-02-17 18:00:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-17 18:10:42 +0000"
     },
     "done": true
   },
@@ -206,6 +302,12 @@
   "connectedglass:recipes/buildingblocks/clear_glass_gray2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
     },
     "done": true
   },
@@ -230,6 +332,18 @@
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_silver2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -314,6 +428,18 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-17 18:11:11 +0000"
     },
     "done": true
   },
@@ -443,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-17 18:11:29 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -464,6 +596,12 @@
   "connectedglass:recipes/decorations/scratched_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -497,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-17 18:11:05 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_magenta_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -509,9 +653,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_brown2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -554,6 +722,12 @@
   "connectedglass:recipes/decorations/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -617,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-02-17 18:11:26 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_light_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -626,6 +806,12 @@
   "connectedglass:recipes/decorations/clear_glass_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
     },
     "done": true
   },
@@ -671,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 18:12:48 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
@@ -692,6 +884,18 @@
   "connectedglass:recipes/buildingblocks/clear_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:11:02 +0000"
     },
     "done": true
   },
