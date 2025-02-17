@@ -61,7 +61,6 @@ minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
 sharinganaddon:kotoamatsukami
-iceandfire:glacier
 byg:bjacarandaforest
 byg:bcikaforest
 byg:bwoodlands
