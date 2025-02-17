@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_lime_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-17 18:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-02-17 18:45:12 +0000"
@@ -56,6 +68,12 @@
   "connectedglass:recipes/buildingblocks/clear_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
     },
     "done": true
   },
@@ -74,6 +92,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-17 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
     },
     "done": true
   },
@@ -167,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-17 18:45:12 +0000"
@@ -191,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 18:53:54 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/tinted_glass": {
     "criteria": {
       "recipe_condition": "2025-02-17 18:33:13 +0000"
@@ -209,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-02-17 18:41:00 +0000"
@@ -223,6 +265,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-17 18:52:51 +0000",
       "beef": "2025-02-17 18:47:58 +0000"
     },
     "done": false
@@ -308,6 +351,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-02-17 18:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
     },
     "done": true
   },
@@ -413,6 +462,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-17 18:53:54 +0000"
+    },
+    "done": true
+  },
+  "editenchanting:recipes/recipes/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 18:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-17 18:35:55 +0000"
@@ -461,9 +528,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-17 18:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-02-17 18:51:40 +0000"
     },
     "done": true
   },
@@ -494,6 +573,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-17 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 18:53:54 +0000"
     },
     "done": true
   },
@@ -593,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -653,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-02-17 18:51:40 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_light_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -677,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_green_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -689,9 +792,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
     },
     "done": true
   },
@@ -737,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -758,6 +885,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-17 18:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
     },
     "done": true
   },
@@ -809,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-17 18:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-17 18:45:12 +0000"
@@ -842,6 +981,12 @@
   "connectedglass:recipes/decorations/borderless_glass_brown_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-02-17 18:53:28 +0000"
     },
     "done": true
   },
@@ -893,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -902,6 +1053,12 @@
   "connectedglass:recipes/buildingblocks/clear_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-17 18:53:54 +0000"
     },
     "done": true
   },
@@ -975,8 +1132,10 @@
     "criteria": {
       "forest": "2025-02-17 18:43:57 +0000",
       "birch_forest": "2025-02-17 18:33:12 +0000",
+      "beaches": "2025-02-17 18:50:45 +0000",
       "desert_hills": "2025-02-17 18:43:22 +0000",
       "plains": "2025-02-17 18:40:15 +0000",
+      "ocean": "2025-02-17 18:50:50 +0000",
       "river": "2025-02-17 18:34:25 +0000",
       "desert": "2025-02-17 18:34:29 +0000"
     },
@@ -1072,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -1132,6 +1297,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 18:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:13 +0000"
@@ -1153,6 +1330,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-02-17 18:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-02-17 18:51:40 +0000"
     },
     "done": true
   },

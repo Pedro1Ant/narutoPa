@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-02-17 18:40:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/decorations/scratched_glass_green_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:40:06 +0000"
     },
     "done": true
   },
@@ -101,15 +101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2025-02-17 18:34:07 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/decorations/clear_glass_orange_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:34:07 +0000"
     },
     "done": true
   },
@@ -191,15 +191,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-02-17 18:40:22 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-17 18:40:22 +0000"
     },
     "done": true
   },
@@ -335,17 +335,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-02-17 18:45:36 +0000"
-    },
-    "done": false
-  },
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-02-17 18:45:36 +0000"
+    },
+    "done": false
   },
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_silver2": {
     "criteria": {
@@ -455,15 +455,9 @@
     },
     "done": true
   },
-  "mutantbeasts:root": {
+  "connectedglass:recipes/buildingblocks/scratched_glass_white2": {
     "criteria": {
-      "killed_something": "2025-02-17 18:37:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-17 18:39:49 +0000"
+      "recipe_condition2": "2025-02-17 18:33:30 +0000"
     },
     "done": true
   },
@@ -473,9 +467,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/buildingblocks/scratched_glass_white2": {
+  "mutantbeasts:root": {
     "criteria": {
-      "recipe_condition2": "2025-02-17 18:33:30 +0000"
+      "killed_something": "2025-02-17 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:39:49 +0000"
     },
     "done": true
   },
@@ -533,15 +533,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-02-17 18:41:49 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-17 18:41:49 +0000"
     },
     "done": true
   },
@@ -647,15 +647,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-02-17 18:40:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/decorations/scratched_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:40:06 +0000"
     },
     "done": true
   },
@@ -716,15 +716,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-17 18:45:36 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/clear_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-17 18:45:36 +0000"
     },
     "done": true
   },
@@ -758,15 +758,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-02-17 18:40:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/clear_glass_brown2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:40:06 +0000"
     },
     "done": true
   },
@@ -782,15 +782,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-17 18:37:37 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/decorations/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-17 18:37:37 +0000"
     },
     "done": true
   },
@@ -944,15 +944,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "tombstone:tutorial/first_grave": {
     "criteria": {
-      "has_planks": "2025-02-17 18:34:07 +0000"
+      "coded_trigger": "2025-02-17 18:55:25 +0000"
     },
     "done": true
   },
   "connectedglass:recipes/decorations/borderless_glass_magenta_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-17 18:34:07 +0000"
     },
     "done": true
   },
@@ -980,15 +986,15 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-02-17 18:40:22 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/scratched_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 18:40:22 +0000"
     },
     "done": true
   },
@@ -1010,15 +1016,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-02-17 18:40:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/buildingblocks/clear_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-02-17 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 18:40:06 +0000"
     },
     "done": true
   },
